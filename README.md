@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu perfil 🤘🏼
+## Welcome to my profile 🤘🏼
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -11,7 +11,7 @@
  
 <br>
  
-### Conecte-se comigo nas redes sociais!
+### Socials you can find me!
  
 <div> 
   <a href="https://www.youtube.com/@supitsdaniel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
