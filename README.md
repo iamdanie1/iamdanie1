@@ -1,7 +1,12 @@
 ## Bem-vindo(a) ao perfil meu perfil 🤘🏼
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">     
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linuxserver/default.svg"> 
+  <img align="center" alt="Wireshark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/wireshark/default.svg">
+  <img align="center" alt="Burp Suite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/burp-suite/default.svg">
+  <img align="center" alt="Cisco IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cisco/default.svg">
+  
   </div>
  
 <br>
