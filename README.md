@@ -1,6 +1,4 @@
 ## Welcome to my profile 🤘🏼
-
-## Personal Statement
 Driven by an adversarial mindset, I am a cybersecurity professional focused on strengthening defensive operations through practical vulnerability research and network analysis. I value infrastructure resilience and clear technical communication, ensuring that complex threats are translated into actionable mitigation strategies. By understanding exactly how attackers navigate environments, I help organizations proactively triage alerts, secure critical assets, and reduce operational risk.
 
 <div style="display: inline_block"><br>
