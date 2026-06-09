@@ -1,5 +1,8 @@
 ## Welcome to my profile 🤘🏼
 
+# Peronal Statement
+Driven by an adversarial mindset, I am a cybersecurity professional focused on strengthening defensive operations through practical vulnerability research and network analysis. I value infrastructure resilience and clear technical communication, ensuring that complex threats are translated into actionable mitigation strategies. By understanding exactly how attackers navigate environments, I help organizations proactively triage alerts, secure critical assets, and reduce operational risk.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linuxserver/default.svg"> 
